@@ -37,7 +37,7 @@ For latest statistics, please refer to [my Google profile](https://scholar.googl
 # 🎓 Educations 
 - *2024.09 - now*, <a href="https://hkust.edu.hk/"><img class="jpg" src="/images/HKUST_logo1.jpg" width="30pt"></a> **PhD, Bioscience and Biomedical Engineering, The Hong Kong University of Science and Technology, China.**
 - *2020.09 - 2024.06*, <a href="https://www.zju.edu.cn/"><img class="jpg" src="/images/ZJU_logo1.jpg" width="30pt"></a> **BSc, Biomedical Sciences, Zhejiang University, China.**
-- *2020.09 - 2024.05*, <a href="https://www.ed.ac.uk/"><img class="jpg" src="/images/Edin_logo1.jpg" width="30pt"></a> **BSc (Hons), Integrative Biomedical Sciences, The University of Edinburgh, United Kingdom.**
+- *2020.09 - 2024.05*, <a href="https://www.ed.ac.uk/"><img class="jpg" src="/images/Edin_logo1.jpg" width="30pt"></a> **BSc, Integrative Biomedical Sciences, The University of Edinburgh, United Kingdom.**
 
 <br>
 <br>
