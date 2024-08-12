@@ -35,8 +35,7 @@ My research interests include:
 <br>
 # 📝 Publications 
 
-- Google Scholar citations: 190+
-For latest statistics, please refer to [my Google profile](https://scholar.google.com/citations?hl=en&user=5O51RRAAAAAJ)
+For all publications, please refer to [my Google profile](https://scholar.google.com/citations?hl=en&user=5O51RRAAAAAJ)
 
 † Co-First Author, # Corresponding author
 ## Research 
