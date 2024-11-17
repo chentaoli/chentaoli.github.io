@@ -98,6 +98,21 @@ For all publications, please refer to [my Google profile](https://scholar.google
 <br>
 # 💻 Blogs
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">张杰演唱会</div><img src='images/2024.11.09.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+- *2024.11.09* 🎤2024张杰未·LIVE开往1982巡回演唱会（南宁站）- 147 - 和表姐一起！
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">诺奖得主</div><img src='images/2024.11.01.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+- *2024.11.01* 📷与2014年诺贝尔化学奖得主Stefan W. Hell的合影！
+</div>
+</div>
+
+<details>
+<summary>Click here to open all my blogs</summary>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">新疆行</div><img src='images/20240714.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - *2024.07.14* 🌊新疆行·独库公路&独山子大峡谷！
@@ -151,9 +166,6 @@ For all publications, please refer to [my Google profile](https://scholar.google
 - *2024.07.06* 🏙新疆行· 乌鲁木齐！
 </div>
 </div>
-
-<details>
-<summary>Click here to open all my blogs</summary>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">本科毕业</div><img src='images/2024.06.22.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -241,7 +253,7 @@ For all publications, please refer to [my Google profile](https://scholar.google
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">张杰演唱会</div><img src='images/2024.04.12.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- *2024.04.12* 🤗2024张杰未·LIVE开往1982巡回演唱会（南昌站）！
+- *2024.04.12* 🤗2024张杰未·LIVE开往1982巡回演唱会（南昌站）- 97！
 </div>
 </div>
 
