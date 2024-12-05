@@ -47,6 +47,13 @@ For all publications, please refer to [my Google profile](https://scholar.google
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">iScience 2024</div><img src='images/iScience_2024_HSCT.jpg' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
+-	Xu, S.†, Liu, L.†, `Li, C.†`, Ren, Y., Zhang, M., Xiang, L., Li, N., Xu, J., Bai, S.*, Lv, Y*. (2025). Correlation Among Psoriasis, Iridocyclitis, and Non-alcoholic Fatty Liver Disease: Insights from Mendelian Randomization and Mediation Analysis. International Journal of Medical Sciences, 22(1), 121-131. Doi: 10.7150/ijms.102369. []() [[Link]](https://doi.org/10.7150/ijms.102369) [[PDF]](/pdf/5. IJMS_2025.pdf) <br>
+<br>
+**Summary:** This study highlighted that iridocyclitis was significantly associated with an increased risk of NAFLD and that psoriasis was involved in the mechanism by which iridocyclitis triggered NAFLD, which might offer potential preventive strategies for NAFLD. 
+</div>
+</div>
+
 ## Review
 ---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">STTT 2023</div><img src='images/STTT_2023.png' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
