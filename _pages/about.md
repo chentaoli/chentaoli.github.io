@@ -79,6 +79,7 @@ For all publications, please refer to [my Google profile](https://scholar.google
 <br>
 
 # 📰 News
+- *2024. 12*  📰 Give a poster presentation on COGI 2024.[]() [[Poster]](images/20241208.jpg) 
 - *2024. 8*   🤑 Became a PhD student in Bioscience and Biomedical Engineering Thrust of Systems Hub at The Hong Kong University of Science and Technology (Guangzhou).
 - *2024. 6*   🫡 Graduated from Zhejiang University with the Bachelor's degree of  Biomedical Sciences.
 - *2024. 6*   🥳 Was awarded the Bachelor's degree with Honours of Integrative Biomedical Sciences by The University of Edinburgh.
