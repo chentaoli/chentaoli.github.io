@@ -17,40 +17,40 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Here is Chentao LI (李晨涛). I'm currently a *PhD student* in Bioscience and Biomedical Engineering at **The Hong Kong University of Science and Technology (Guangzhou)**.  I have obtained the *Bachelor's degree in Biomedical Sciences* from **Zhejiang University** and the *Bachelor's degree in Integrative Biomedical Sciences* from **The University of Edinburgh**. 
+**路，不止步于实验室、校园与社会，多多探索。**这里记录了我的生活、研究和项目实践。有些路走的很难，有些美好值得记录。
 
-
-My research interests include: 
-- Epigenetics
-- Immunology
 
 <br>
 <br>
 # 🎓 Educations 
-- *2024 - now*, <a href="https://hkust.edu.hk/"><img class="jpg" src="/images/HKUST_logo1.jpg" width="30pt"></a> **PhD, Bioscience and Biomedical Engineering, The Hong Kong University of Science and Technology, China.**
-- *2020 - 2024*, <a href="https://www.zju.edu.cn/"><img class="jpg" src="/images/ZJU_logo1.jpg" width="30pt"></a> **BSc, Biomedical Sciences, Zhejiang University, China.**
-- *2020 - 2024*, <a href="https://www.ed.ac.uk/"><img class="jpg" src="/images/Edin_logo1.jpg" width="30pt"></a> **BSc, Integrative Biomedical Sciences, The University of Edinburgh, United Kingdom.**
+- *2024 - 2026*, <a href="https://hkust.edu.hk/"><img class="jpg" src="/images/HKUST_logo1.jpg" width="30pt"></a> **哲学硕士/Mphil, 生命科学和生物医学工程, 香港科技大学，中国**（中外合办）
+- *2020 - 2024*, <a href="https://www.zju.edu.cn/"><img class="jpg" src="/images/ZJU_logo1.jpg" width="30pt"></a> **理学学士/BSc, 生物医学, 浙江大学，中国**
+- *2020 - 2024*, <a href="https://www.ed.ac.uk/"><img class="jpg" src="/images/Edin_logo1.jpg" width="30pt"></a> **理学学士/BSc, 生物医学, 爱丁堡大学，英国**（中外合办）
 
 <br>
 <br>
-# 📝 Publications 
+# 📝 我作为第一作者的成果大赏
 
-For all publications, please refer to [my Google profile](https://scholar.google.com/citations?hl=en&user=5O51RRAAAAAJ)
+碎碎念：我的科研生涯已经结束啦！沉浮实验室5年，做过了好多好多实验。以前读博的勇气源于对于学术理想的追崇，后来的退堂鼓来源于对于人生的重新定义，其实一直做实验没有优秀的产出在一个要求极高但收益极低的专业让人很难不怀疑自己的价值。无论如何，我也算对于学术有了一些贡献！
 
-† Co-First Author, # Corresponding author
-## Research 
----
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">iScience 2024</div><img src='images/CCS_2026_Diphyllin.jpg' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
+-	第一作者（共同） **Targeting endolysosomal acidification inhibits poxvirus entry and replication**. *Cell communication and signaling*. []() [[Link]](https://doi.org/10.1186/s12964-026-02705-6) [[PDF]](/pdf/6. CCS_2026.pdf) <br>
+<br>
+我们发现Diphyllin是一种广谱抗痘病毒药物，其作用机制是靶向宿主内溶酶体的酸化，加之其与TMEM175激活产生的协同作用，凸显了调节宿主pH值作为治疗策略的重要性。
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">iScience 2024</div><img src='images/iScience_2024_HSCT.jpg' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
--	Li, X.†, Zhang, W.†, Wang, Y.†, `Li, C.†`, Wu, Y., Shang, Y., Lin, H., Li, Y., Wang, Y., Zeng, X., Cen, Z., Lai, X., Luo, Y.#, Qian, P.#, Huang, H.# (2024). **Monocytes in allo-HSCT with aged donors secrete IL-1/IL-6/TNF to increase the risk of GVHD and damage the aged HSCs**. *iScience*. Doi: 10.1016/j.isci.2024.109126. []() [[Link]](https://doi.org/10.1016/j.isci.2024.109126) [[PDF]](/pdf/3. iScience_2024.pdf) <br>
+-	第一作者（共同） **Monocytes in allo-HSCT with aged donors secrete IL-1/IL-6/TNF to increase the risk of GVHD and damage the aged HSCs**. *iScience*. Doi: 10.1016/j.isci.2024.109126. []() [[Link]](https://doi.org/10.1016/j.isci.2024.109126) [[PDF]](/pdf/3. iScience_2024.pdf) <br>
 <br>
-**Summary:** We comprehensively reintegrated our clinical data from patients after allo-HSCT and public single-cell transcriptomic profile from post-allo-HSCT and healthy individuals, demonstrating that old donors were more prone to acute GVHD (aGVHD) with pronounced inflammation accumulation and worse overall survival (OS). We also found the presence of inflammation-related CXCL2+ HSC subpopulation during aging with significantly enriched pro-inflammatory pathways. Shifting attention to the HSC microenvironment, we deciphered that IL-1/IL-6 and TRAIL (i.e., TNFSF10) ligand‒receptor pair serves as the crucial bridge between CD14/CD16 monocytes and hematopoietic stem/progenitor cells (HSPCs). The profound upregulation of these signaling pathways during aging finally causes HSC dysfunction and lineage-biased differentiation. Our findings provide the theoretical basis for achieving tailored GVHD management and enhancing allo-HSCT regimens efficacy for aged donors.
+我们发现异基因造血干细胞移植（allo-HSCT）中老年供者更容易导致急性移植物抗宿主病（aGVHD），这是由于一些炎症通路在髓系细胞中上调诱导其炎症性分化导致的。
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJMS 2025</div><img src='images/IJMS_2025_MR.jpg' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
--	Xu, S.†, Liu, L.†, `Li, C.†`, Ren, Y., Zhang, M., Xiang, L., Li, N., Xu, J., Bai, S.*, Lv, Y*. (2025). Correlation Among Psoriasis, Iridocyclitis, and Non-alcoholic Fatty Liver Disease: Insights from Mendelian Randomization and Mediation Analysis. International Journal of Medical Sciences, 22(1), 121-131. Doi: 10.7150/ijms.102369. []() [[Link]](https://doi.org/10.7150/ijms.102369) [[PDF]](/pdf/5. IJMS_2025.pdf) <br>
+-	第一作者（共同）Correlation Among Psoriasis, Iridocyclitis, and Non-alcoholic Fatty Liver Disease: Insights from Mendelian Randomization and Mediation Analysis. International Journal of Medical Sciences, 22(1), 121-131. Doi: 10.7150/ijms.102369. []() [[Link]](https://doi.org/10.7150/ijms.102369) [[PDF]](/pdf/5. IJMS_2025.pdf) <br>
 <br>
-**Summary:** This study highlighted that iridocyclitis was significantly associated with an increased risk of NAFLD and that psoriasis was involved in the mechanism by which iridocyclitis triggered NAFLD, which might offer potential preventive strategies for NAFLD. 
+我们发现虹膜睫状体炎与非酒精性脂肪性肝病（NAFLD）风险升高显著相关；同时，银屑病可能参与虹膜睫状体炎诱发 NAFLD 的作用机制。
 </div>
 </div>
 
