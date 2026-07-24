@@ -24,8 +24,8 @@ redirect_from:
     <i class="orbit-dot orbit-dot-two"></i>
   </div>
   <div class="hero-copy">
-    <p class="hero-eyebrow">生物医学 × AI项目实践 × 真实生活</p>
-    <h1 class="hero-title">在研究之外，<br><span>持续探索更大的世界。</span></h1>
+    <p class="hero-eyebrow">项目实践 × 真实生活</p>
+    <h1 class="hero-title">睁眼闯世界<br><span>闭眼做大梦</span></h1>
     <p class="hero-intro">从生物医学研究、团队项目到旅途与现场，这里收录我认真做过的事，也记录那些塑造我的时刻。</p>
     <div class="hero-actions">
       <a class="hero-primary" href="#publications">查看学术成果</a>
@@ -35,7 +35,7 @@ redirect_from:
   <div class="hero-metrics" aria-label="个人经历概览">
     <div><strong>3</strong><span>教育经历</span></div>
     <div><strong>5+</strong><span>年科研与项目实践</span></div>
-    <div><strong>7</strong><span>项论文成果</span></div>
+    <div><strong>6</strong><span>项（共同）一作论文成果</span></div>
   </div>
 </section>
 
@@ -77,8 +77,6 @@ redirect_from:
 </div>
 </div>
 
-## 综述论文
----
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">STTT 2023</div><img src='images/STTT_2023.png' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
 -	Li, X.†, `Li, C.†`, Zhang, W.†, Wang, Y.†, Qian, P.#, Huang, H.# (2023). **Aging and Inflammation: Signaling Pathways and Intervention Therapies**. *Signal Transduction and Targeted Therapy*. DOI: 10.1038/s41392-023-01502-8. []() [[论文链接]](https://doi.org/10.1038/s41392-023-01502-8) [[全文 PDF]](/pdf/2. STTT_2023.pdf)  <br>
 <br>
