@@ -19,23 +19,23 @@ redirect_from:
 
 <section class="profile-hero">
   <div class="hero-orbit" aria-hidden="true">
-    <span class="hero-monogram">CL</span>
+    <span class="hero-monogram">LCT</span>
     <i class="orbit-dot orbit-dot-one"></i>
     <i class="orbit-dot orbit-dot-two"></i>
   </div>
   <div class="hero-copy">
     <p class="hero-eyebrow">生物医学 × AI项目实践 × 真实生活</p>
     <h1 class="hero-title">在研究之外，<br><span>持续探索更大的世界。</span></h1>
-    <p class="hero-intro">我是李晨涛，从生物医学研究、团队项目到旅途与现场，这里收录我认真做过的事，也记录那些塑造我的时刻。</p>
+    <p class="hero-intro">从生物医学研究、团队项目到旅途与现场，这里收录我认真做过的事，也记录那些塑造我的时刻。</p>
     <div class="hero-actions">
       <a class="hero-primary" href="#publications">查看学术成果</a>
       <a class="hero-secondary" href="#blogs">翻阅生活记录</a>
     </div>
   </div>
   <div class="hero-metrics" aria-label="个人经历概览">
-    <div><strong>3</strong><span>段跨校教育经历</span></div>
-    <div><strong>6</strong><span>项论文成果</span></div>
+    <div><strong>3</strong><span>教育经历</span></div>
     <div><strong>5+</strong><span>年科研与项目实践</span></div>
+    <div><strong>7</strong><span>项论文成果</span></div>
   </div>
 </section>
 
@@ -47,7 +47,7 @@ redirect_from:
 - *2020 - 2024*, <a href="https://www.zju.edu.cn/"><img class="jpg" src="/images/ZJU_logo1.jpg" width="30pt"></a> **理学学士/BSc, 生物医学, 浙江大学，中国**
 - *2020 - 2024*, <a href="https://www.ed.ac.uk/"><img class="jpg" src="/images/Edin_logo1.jpg" width="30pt"></a> **理学学士/BSc, 生物医学, 爱丁堡大学，英国**（中外合办）
 
-碎碎念：我来自河北省保定市安国市。我们的县城很小，三条街道就可以从城东走到城西。以前，课上总说要考上大学才能去大城市；后来，我也去过了很多很多地方，见到了很多人，学会了很多事情。
+碎碎念：我来自河北省保定市安国市。我们的县城很小，三条街道就可以从城东走到城西。
 
 <br>
 <br>
