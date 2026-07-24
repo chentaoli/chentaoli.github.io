@@ -24,7 +24,7 @@ redirect_from:
     <i class="orbit-dot orbit-dot-two"></i>
   </div>
   <div class="hero-copy">
-    <p class="hero-eyebrow">生命科学 × AI项目实践 × 真实生活</p>
+    <p class="hero-eyebrow">生物医学 × AI项目实践 × 真实生活</p>
     <h1 class="hero-title">在研究之外，<br><span>持续探索更大的世界。</span></h1>
     <p class="hero-intro">我是李晨涛，从生物医学研究、团队项目到旅途与现场，这里收录我认真做过的事，也记录那些塑造我的时刻。</p>
     <div class="hero-actions">
