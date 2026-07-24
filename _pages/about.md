@@ -17,7 +17,27 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-这里记录了我的生活、研究和项目实践，还有一些碎碎念。
+<section class="profile-hero">
+  <div class="hero-orbit" aria-hidden="true">
+    <span class="hero-monogram">CL</span>
+    <i class="orbit-dot orbit-dot-one"></i>
+    <i class="orbit-dot orbit-dot-two"></i>
+  </div>
+  <div class="hero-copy">
+    <p class="hero-eyebrow">生命科学 × AI项目实践 × 真实生活</p>
+    <h1 class="hero-title">在研究之外，<br><span>持续探索更大的世界。</span></h1>
+    <p class="hero-intro">我是李晨涛，从生物医学研究、团队项目到旅途与现场，这里收录我认真做过的事，也记录那些塑造我的时刻。</p>
+    <div class="hero-actions">
+      <a class="hero-primary" href="#publications">查看学术成果</a>
+      <a class="hero-secondary" href="#blogs">翻阅生活记录</a>
+    </div>
+  </div>
+  <div class="hero-metrics" aria-label="个人经历概览">
+    <div><strong>3</strong><span>段跨校教育经历</span></div>
+    <div><strong>6</strong><span>项论文成果</span></div>
+    <div><strong>5+</strong><span>年科研与项目实践</span></div>
+  </div>
+</section>
 
 <br>
 <br>
@@ -27,12 +47,14 @@ redirect_from:
 - *2020 - 2024*, <a href="https://www.zju.edu.cn/"><img class="jpg" src="/images/ZJU_logo1.jpg" width="30pt"></a> **理学学士/BSc, 生物医学, 浙江大学，中国**
 - *2020 - 2024*, <a href="https://www.ed.ac.uk/"><img class="jpg" src="/images/Edin_logo1.jpg" width="30pt"></a> **理学学士/BSc, 生物医学, 爱丁堡大学，英国**（中外合办）
 
+碎碎念：我来自河北省保定市安国市。我们的县城很小，三条街道就可以从城东走到城西。以前，课上总说要考上大学才能去大城市；后来，我也去过了很多很多地方，见到了很多人，学会了很多事情。
+
 <br>
 <br>
 <span class='anchor' id='publications'></span>
 # 📝 学术成果
 
-碎碎念：我的科研生涯已经结束啦！沉浮实验室5年，做过了好多好多实验。以前读博的勇气源于对于学术理想的追崇，后来的退堂鼓来源于对于人生的重新定义，其实一直做实验没有优秀的产出在一个要求极高但收益极低的专业让人很难不怀疑自己的价值。无论如何，我也算对于学术有了一些贡献！
+碎碎念：我的科研生涯已经结束啦！沉浮实验室5年，做过了好多好多实验。以前读博的勇气源于对于学术理想的追崇，后来的退堂鼓来源于对于人生的重新定义，其实一直做实验没有优秀的产出在一个要求极高但收益极低的专业让人很难不怀疑自己的价值。Anyway，我也算对于学术有了一些贡献！
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">iScience 2024</div><img src='images/CCS_2026_Diphyllin.jpg' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
 -	第一作者（共同） **Targeting endolysosomal acidification inhibits poxvirus entry and replication**. *Cell communication and signaling*. []() [[论文链接]](https://doi.org/10.1186/s12964-026-02705-6) [[全文 PDF]](/pdf/6. CCS_2026.pdf) <br>
@@ -60,21 +82,21 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">STTT 2023</div><img src='images/STTT_2023.png' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
 -	Li, X.†, `Li, C.†`, Zhang, W.†, Wang, Y.†, Qian, P.#, Huang, H.# (2023). **Aging and Inflammation: Signaling Pathways and Intervention Therapies**. *Signal Transduction and Targeted Therapy*. DOI: 10.1038/s41392-023-01502-8. []() [[论文链接]](https://doi.org/10.1038/s41392-023-01502-8) [[全文 PDF]](/pdf/2. STTT_2023.pdf)  <br>
 <br>
-**研究概述：** 本文从分子、细胞、器官和疾病等层面讨论炎症性衰老，回顾现有衰老模型、前沿单细胞技术的应用，以及抗衰老干预策略。我们重点梳理炎症与衰老的关键特征和潜在机制，并总结该领域的最新进展与未来方向，为预防和缓解衰老相关疾病、改善生命质量提供理论基础。
+本文从分子、细胞、器官和疾病等层面讨论炎症性衰老，回顾现有衰老模型、前沿单细胞技术的应用，以及抗衰老干预策略。我们重点梳理炎症与衰老的关键特征和潜在机制，并总结该领域的最新进展与未来方向，为预防和缓解衰老相关疾病、改善生命质量提供理论基础。
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJBS 2024</div><img src='images/IJBS_2024.png' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
 -	Lin, H.†, `Li, C.†`, Zhang, W.†, Wu, B.†, Wang, Y., Wang, S., Wang, D.#, Li, X.#, Huang, H.# (2024). **Synthetic Cells and Molecules in Cellular Immunotherapy**. *International Journal of Biological Sciences*. DOI: 10.7150/ijbs.94346. []() [[论文链接]](https://doi.org/10.7150/ijbs.94346) [[全文 PDF]](/pdf/4. IJBS_2024.pdf)  <br>
 <br>
-**研究概述：** 本文总结合成细胞与合成分子在细胞免疫治疗中的创新策略，讨论现有方案的局限，并展望下一代细胞免疫治疗的发展方向。
+本文总结合成细胞与合成分子在细胞免疫治疗中的创新策略，讨论现有方案的局限，并展望下一代细胞免疫治疗的发展方向。
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BEHDP 2022</div><img src='images/BEHDP_2022.png' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
 -	`Li, C.†#`, Liu, Z.†, Zhou, Y.† (2022). **CAR-T Immunotherapy to Beat Solid Tumors: From Challenges to Improvements**. *Highlights in Science, Engineering and Technology*. DOI: 10.54097/hset.v8i.1110. []() [[论文链接]](https://doi.org/10.54097/hset.v8i.1110) [[全文 PDF]](/pdf/1. BEHDP_2022.pdf)  <br>
 <br>
-**研究概述：** 本文介绍 CAR-T 免疫治疗的作用机制、发展历程与临床应用，并讨论其治疗实体瘤的现状、挑战、改进策略及未来方向。
+本文介绍 CAR-T 免疫治疗的作用机制、发展历程与临床应用，并讨论其治疗实体瘤的现状、挑战、改进策略及未来方向。
 </div>
 </div>
 
@@ -84,6 +106,7 @@ redirect_from:
 # 🏅 荣誉与奖项
 - *2024. 6* 浙江大学优秀本科毕业生。[]() [[证书]](images/浙江大学优秀毕业生.jpeg)
 - *2022.10* 国际遗传工程机器大赛（iGEM）银奖。[]() [[证书]](images/Prize_iGEM-2022-certificates.png) 
+- *2019.10* 河北省三好学生
 <br>
 <br>
 
