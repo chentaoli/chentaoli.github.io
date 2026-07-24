@@ -17,94 +17,98 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**路，不止步于实验室、校园与社会，多多探索。**这里记录了我的生活、研究和项目实践。有些路走的很难，有些美好值得记录。
-
+这里记录了我的生活、研究和项目实践，还有一些碎碎念。
 
 <br>
 <br>
-# 🎓 Educations 
+<span class='anchor' id='education'></span>
+# 🎓 教育经历
 - *2024 - 2026*, <a href="https://hkust.edu.hk/"><img class="jpg" src="/images/HKUST_logo1.jpg" width="30pt"></a> **哲学硕士/Mphil, 生命科学和生物医学工程, 香港科技大学，中国**（中外合办）
 - *2020 - 2024*, <a href="https://www.zju.edu.cn/"><img class="jpg" src="/images/ZJU_logo1.jpg" width="30pt"></a> **理学学士/BSc, 生物医学, 浙江大学，中国**
 - *2020 - 2024*, <a href="https://www.ed.ac.uk/"><img class="jpg" src="/images/Edin_logo1.jpg" width="30pt"></a> **理学学士/BSc, 生物医学, 爱丁堡大学，英国**（中外合办）
 
 <br>
 <br>
-# 📝 我作为第一作者的成果大赏
+<span class='anchor' id='publications'></span>
+# 📝 学术成果
 
 碎碎念：我的科研生涯已经结束啦！沉浮实验室5年，做过了好多好多实验。以前读博的勇气源于对于学术理想的追崇，后来的退堂鼓来源于对于人生的重新定义，其实一直做实验没有优秀的产出在一个要求极高但收益极低的专业让人很难不怀疑自己的价值。无论如何，我也算对于学术有了一些贡献！
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">iScience 2024</div><img src='images/CCS_2026_Diphyllin.jpg' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
--	第一作者（共同） **Targeting endolysosomal acidification inhibits poxvirus entry and replication**. *Cell communication and signaling*. []() [[Link]](https://doi.org/10.1186/s12964-026-02705-6) [[PDF]](/pdf/6. CCS_2026.pdf) <br>
+-	第一作者（共同） **Targeting endolysosomal acidification inhibits poxvirus entry and replication**. *Cell communication and signaling*. []() [[论文链接]](https://doi.org/10.1186/s12964-026-02705-6) [[全文 PDF]](/pdf/6. CCS_2026.pdf) <br>
 <br>
 我们发现Diphyllin是一种广谱抗痘病毒药物，其作用机制是靶向宿主内溶酶体的酸化，加之其与TMEM175激活产生的协同作用，凸显了调节宿主pH值作为治疗策略的重要性。
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">iScience 2024</div><img src='images/iScience_2024_HSCT.jpg' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
--	第一作者（共同） **Monocytes in allo-HSCT with aged donors secrete IL-1/IL-6/TNF to increase the risk of GVHD and damage the aged HSCs**. *iScience*. Doi: 10.1016/j.isci.2024.109126. []() [[Link]](https://doi.org/10.1016/j.isci.2024.109126) [[PDF]](/pdf/3. iScience_2024.pdf) <br>
+-	第一作者（共同） **Monocytes in allo-HSCT with aged donors secrete IL-1/IL-6/TNF to increase the risk of GVHD and damage the aged HSCs**. *iScience*. DOI: 10.1016/j.isci.2024.109126. []() [[论文链接]](https://doi.org/10.1016/j.isci.2024.109126) [[全文 PDF]](/pdf/3. iScience_2024.pdf) <br>
 <br>
 我们发现异基因造血干细胞移植（allo-HSCT）中老年供者更容易导致急性移植物抗宿主病（aGVHD），这是由于一些炎症通路在髓系细胞中上调诱导其炎症性分化导致的。
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJMS 2025</div><img src='images/IJMS_2025_MR.jpg' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
--	第一作者（共同）Correlation Among Psoriasis, Iridocyclitis, and Non-alcoholic Fatty Liver Disease: Insights from Mendelian Randomization and Mediation Analysis. International Journal of Medical Sciences, 22(1), 121-131. Doi: 10.7150/ijms.102369. []() [[Link]](https://doi.org/10.7150/ijms.102369) [[PDF]](/pdf/5. IJMS_2025.pdf) <br>
+-	第一作者（共同）Correlation Among Psoriasis, Iridocyclitis, and Non-alcoholic Fatty Liver Disease: Insights from Mendelian Randomization and Mediation Analysis. International Journal of Medical Sciences, 22(1), 121-131. DOI: 10.7150/ijms.102369. []() [[论文链接]](https://doi.org/10.7150/ijms.102369) [[全文 PDF]](/pdf/5. IJMS_2025.pdf) <br>
 <br>
 我们发现虹膜睫状体炎与非酒精性脂肪性肝病（NAFLD）风险升高显著相关；同时，银屑病可能参与虹膜睫状体炎诱发 NAFLD 的作用机制。
 </div>
 </div>
 
-## Review
+## 综述论文
 ---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">STTT 2023</div><img src='images/STTT_2023.png' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
--	Li, X.†, `Li, C.†`, Zhang, W.†, Wang, Y.†, Qian, P.#, Huang, H.# (2023). **Aging and Inflammation: Signaling Pathways and Intervention Therapies**. *Signal Transduction and Targeted Therapy*. Doi: 10.1038/s41392-023-01502-8. []() [[Link]](https://doi.org/10.1038/s41392-023-01502-8) [[PDF]](/pdf/2. STTT_2023.pdf)  <br>
+-	Li, X.†, `Li, C.†`, Zhang, W.†, Wang, Y.†, Qian, P.#, Huang, H.# (2023). **Aging and Inflammation: Signaling Pathways and Intervention Therapies**. *Signal Transduction and Targeted Therapy*. DOI: 10.1038/s41392-023-01502-8. []() [[论文链接]](https://doi.org/10.1038/s41392-023-01502-8) [[全文 PDF]](/pdf/2. STTT_2023.pdf)  <br>
 <br>
-**Summary:** Here we discuss inflammaging at the molecular, cellular, organ, and disease levels, and review current aging models, the implications of cutting-edge single cell technologies, as well as anti-aging strategies. Since preventing and alleviating aging-related diseases and improving the overall quality of life are the ultimate goals of aging research, our review highlights the critical features and potential mechanisms of inflammation and aging, along with the latest developments and future directions in aging research, providing a theoretical foundation for novel and practical anti-aging strategies.
+**研究概述：** 本文从分子、细胞、器官和疾病等层面讨论炎症性衰老，回顾现有衰老模型、前沿单细胞技术的应用，以及抗衰老干预策略。我们重点梳理炎症与衰老的关键特征和潜在机制，并总结该领域的最新进展与未来方向，为预防和缓解衰老相关疾病、改善生命质量提供理论基础。
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJBS 2024</div><img src='images/IJBS_2024.png' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
--	Lin, H.†, `Li, C.†`, Zhang, W.†, Wu, B.†, Wang, Y., Wang, S., Wang, D.#, Li, X.#, Huang, H.# (2024). **Synthetic Cells and Molecules in Cellular Immunotherapy**. *International Journal of Biological Sciences*. Doi: 10.7150/ijbs.94346. []() [[Link]](https://doi.org/10.7150/ijbs.94346) [[PDF]](/pdf/4. IJBS_2024.pdf)  <br>
+-	Lin, H.†, `Li, C.†`, Zhang, W.†, Wu, B.†, Wang, Y., Wang, S., Wang, D.#, Li, X.#, Huang, H.# (2024). **Synthetic Cells and Molecules in Cellular Immunotherapy**. *International Journal of Biological Sciences*. DOI: 10.7150/ijbs.94346. []() [[论文链接]](https://doi.org/10.7150/ijbs.94346) [[全文 PDF]](/pdf/4. IJBS_2024.pdf)  <br>
 <br>
-**Summary:** This review summarizes the innovative strategies of synthetic cells and molecules currently available in cellular immunotherapies, discusses the limitations, and provides insights into the next generation of cellular immunotherapies.
+**研究概述：** 本文总结合成细胞与合成分子在细胞免疫治疗中的创新策略，讨论现有方案的局限，并展望下一代细胞免疫治疗的发展方向。
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BEHDP 2022</div><img src='images/BEHDP_2022.png' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
--	`Li, C.†#`, Liu, Z.†, Zhou, Y.† (2022). **CAR-T Immunotherapy to Beat Solid Tumors: From Challenges to Improvements**. *Highlights in Science, Engineering and Technology*. Doi: 10.54097/hset.v8i.1110. []() [[Link]](https://doi.org/10.54097/hset.v8i.1110) [[PDF]](/pdf/1. BEHDP_2022.pdf)  <br>
+-	`Li, C.†#`, Liu, Z.†, Zhou, Y.† (2022). **CAR-T Immunotherapy to Beat Solid Tumors: From Challenges to Improvements**. *Highlights in Science, Engineering and Technology*. DOI: 10.54097/hset.v8i.1110. []() [[论文链接]](https://doi.org/10.54097/hset.v8i.1110) [[全文 PDF]](/pdf/1. BEHDP_2022.pdf)  <br>
 <br>
-**Summary:** This paper describes CAR-T immunotherapy's mechanisms, development, and applications and discusses the status, difficulties, solutions, and future directions of treating solid tumors by CAR-T immunotherapy.
+**研究概述：** 本文介绍 CAR-T 免疫治疗的作用机制、发展历程与临床应用，并讨论其治疗实体瘤的现状、挑战、改进策略及未来方向。
 </div>
 </div>
 
 <br>
 <br>
-# 🏅 Honors and Awards
-- *2024. 6* Outstanding undergraduate graduates of Zhejiang University. []() [[Certificates]](images/浙江大学优秀毕业生.jpeg)
-- *2022.10* Silver Prize of the International Genetically Engineered Machine Competition (iGEM). []() [[Certificates]](images/Prize_iGEM-2022-certificates.png) 
+<span class='anchor' id='honors'></span>
+# 🏅 荣誉与奖项
+- *2024. 6* 浙江大学优秀本科毕业生。[]() [[证书]](images/浙江大学优秀毕业生.jpeg)
+- *2022.10* 国际遗传工程机器大赛（iGEM）银奖。[]() [[证书]](images/Prize_iGEM-2022-certificates.png) 
 <br>
 <br>
 
-# 📰 News
-- *2024. 12*  📰 Give a poster presentation on COGI 2024.[]() [[Poster]](images/20241208.jpg) 
-- *2024. 8*   🤑 Became a PhD student in Bioscience and Biomedical Engineering Thrust of Systems Hub at The Hong Kong University of Science and Technology (Guangzhou).
-- *2024. 6*   🫡 Graduated from Zhejiang University with the Bachelor's degree of  Biomedical Sciences.
-- *2024. 6*   🥳 Was awarded the Bachelor's degree with Honours of Integrative Biomedical Sciences by The University of Edinburgh.
-- *2024. 5*   😍 Published the outcomes of iGEM on IJBS [[DOI: 10.7150/ijbs.94346]](https://doi.org/10.7150/ijbs.94346).
-- *2024. 2*   😍 Published the first research paper on iScience [[DOI: 10.1016/j.isci.2024.109126]](https://doi.org/10.1016/j.isci.2024.109126).
-- *2023. 9*   😭 Tried to apply for oversea PhD programs but all applications were all rejected.
-- *2023. 6*   😍 Published the first SCI paper on STTT [[DOI: 10.1038/s41392-023-01502-8]](https://doi.org/10.1038/s41392-023-01502-8).
-- *2022.10*   😀 Led the ZJUintl-China 2022 iGEM team and won the silver prize of iGEM competition.
-- *2022. 8*   🙃 Published the first academic paper on BEHDP conference [[DOI: 10.54097/hset.v8i.1110]](https://doi.org/10.54097/hset.v8i.1110).
-- *2021.10*   😚 Founded the first iGEM team of Internarional Campus, Zhejiang University - [[ZJUintl-China 2022]](https://2022.igem.wiki/zjuintl-china).
-- *2021. 3*   🤑 Launched the first research project of Student Research Training Program at Zhejiang University with provincial funding.
-- *2020. 9*   😝 Enrolled in the Integrative Biomedical Sciences BSc (Hons) program of The University of Edinburgh.
-- *2020. 9*   😜 Enrolled in the Biomedical Sciences BSc program of Zhejiang University.
-- *2020. 7*   😱 Participated in the National College Entrance Examination 2020 (deferred due to the COVID-19 epidemic).
+<span class='anchor' id='news'></span>
+# 📰 近期动态
+- *2024. 12*  📰 在 COGI 2024 进行学术海报展示。[]() [[海报]](images/20241208.jpg) 
+- *2024. 8*   🤑 进入香港科技大学（广州）系统枢纽生命科学与生物医学工程学域深造。
+- *2024. 6*   🫡 毕业于浙江大学，获生物医学理学学士学位。
+- *2024. 6*   🥳 获爱丁堡大学综合生物医学荣誉理学学士学位。
+- *2024. 5*   😍 iGEM 项目成果发表于 IJBS。[[DOI: 10.7150/ijbs.94346]](https://doi.org/10.7150/ijbs.94346)
+- *2024. 2*   😍 第一篇研究论文发表于 iScience。[[DOI: 10.1016/j.isci.2024.109126]](https://doi.org/10.1016/j.isci.2024.109126)
+- *2023. 9*   😭 尝试申请海外博士项目，也在挫折中重新思考未来方向。
+- *2023. 6*   😍 第一篇 SCI 论文发表于 STTT。[[DOI: 10.1038/s41392-023-01502-8]](https://doi.org/10.1038/s41392-023-01502-8)
+- *2022.10*   😀 带领 ZJUintl-China 2022 团队获得 iGEM 银奖。
+- *2022. 8*   🙃 第一篇学术论文发表于 BEHDP 会议。[[DOI: 10.54097/hset.v8i.1110]](https://doi.org/10.54097/hset.v8i.1110)
+- *2021.10*   😚 创建浙江大学国际联合学院首支 iGEM 团队——[[ZJUintl-China 2022]](https://2022.igem.wiki/zjuintl-china)。
+- *2021. 3*   🤑 发起首个浙江大学大学生科研训练计划项目，并获省级立项资助。
+- *2020. 9*   😝 入读爱丁堡大学综合生物医学荣誉理学学士项目。
+- *2020. 9*   😜 入读浙江大学生物医学理学学士项目。
+- *2020. 7*   😱 参加因新冠疫情延期举行的 2020 年全国普通高等学校招生考试。
 
 <br>
 <br>
-# 💻 Blogs
+<span class='anchor' id='blogs'></span>
+# 💻 生活记录
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">张杰演唱会</div><img src='images/2024.11.09.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -119,7 +123,7 @@ redirect_from:
 </div>
 
 <details>
-<summary>Click here to open all my blogs</summary>
+<summary>展开全部生活记录</summary>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">新疆行</div><img src='images/20240714.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -334,10 +338,11 @@ redirect_from:
 </details>
 <br>
 <br>
-# 📧 Contact
-**Corresponding Information** <br>
+<span class='anchor' id='contact'></span>
+# 📧 联系我
+**联系方式** <br>
 lichentao2002@outlook.com <br>
-Bioscience and Biomedical Engineering Thrust, The Hong Kong University of Science and Technology (Guangzhou), Nansha, Guangzhou, 511458, China.
+香港科技大学（广州）生命科学与生物医学工程学域，中国广东省广州市南沙区，511458。
 <br>
 <br>
 <br>
