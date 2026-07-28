@@ -26,7 +26,7 @@ redirect_from:
   <div class="hero-copy">
     <p class="hero-eyebrow">项目实践 × 真实生活</p>
     <h1 class="hero-title">睁眼闯世界<br><span>闭眼做大梦</span></h1>
-    <p class="hero-intro">从生物医学研究、团队项目到旅途与现场，这里收录我认真做过的事，也记录那些塑造我的时刻。</p>
+    <p class="hero-intro">从研究和项目到旅途与现场，这里收录我认真做过的事。</p>
     <div class="hero-actions">
       <a class="hero-primary" href="#publications">查看学术成果</a>
       <a class="hero-secondary" href="#blogs">翻阅生活记录</a>
@@ -78,21 +78,21 @@ redirect_from:
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">STTT 2023</div><img src='images/STTT_2023.png' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
--	Li, X.†, `Li, C.†`, Zhang, W.†, Wang, Y.†, Qian, P.#, Huang, H.# (2023). **Aging and Inflammation: Signaling Pathways and Intervention Therapies**. *Signal Transduction and Targeted Therapy*. DOI: 10.1038/s41392-023-01502-8. []() [[论文链接]](https://doi.org/10.1038/s41392-023-01502-8) [[全文 PDF]](/pdf/2. STTT_2023.pdf)  <br>
+-	第一作者（共同）**Aging and Inflammation: Signaling Pathways and Intervention Therapies**. *Signal Transduction and Targeted Therapy*. DOI: 10.1038/s41392-023-01502-8. []() [[论文链接]](https://doi.org/10.1038/s41392-023-01502-8) [[全文 PDF]](/pdf/2. STTT_2023.pdf)  <br>
 <br>
 本文从分子、细胞、器官和疾病等层面讨论炎症性衰老，回顾现有衰老模型、前沿单细胞技术的应用，以及抗衰老干预策略。我们重点梳理炎症与衰老的关键特征和潜在机制，并总结该领域的最新进展与未来方向，为预防和缓解衰老相关疾病、改善生命质量提供理论基础。
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJBS 2024</div><img src='images/IJBS_2024.png' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
--	Lin, H.†, `Li, C.†`, Zhang, W.†, Wu, B.†, Wang, Y., Wang, S., Wang, D.#, Li, X.#, Huang, H.# (2024). **Synthetic Cells and Molecules in Cellular Immunotherapy**. *International Journal of Biological Sciences*. DOI: 10.7150/ijbs.94346. []() [[论文链接]](https://doi.org/10.7150/ijbs.94346) [[全文 PDF]](/pdf/4. IJBS_2024.pdf)  <br>
+-	第一作者（共同）**Synthetic Cells and Molecules in Cellular Immunotherapy**. *International Journal of Biological Sciences*. DOI: 10.7150/ijbs.94346. []() [[论文链接]](https://doi.org/10.7150/ijbs.94346) [[全文 PDF]](/pdf/4. IJBS_2024.pdf)  <br>
 <br>
 本文总结合成细胞与合成分子在细胞免疫治疗中的创新策略，讨论现有方案的局限，并展望下一代细胞免疫治疗的发展方向。
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BEHDP 2022</div><img src='images/BEHDP_2022.png' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
--	`Li, C.†#`, Liu, Z.†, Zhou, Y.† (2022). **CAR-T Immunotherapy to Beat Solid Tumors: From Challenges to Improvements**. *Highlights in Science, Engineering and Technology*. DOI: 10.54097/hset.v8i.1110. []() [[论文链接]](https://doi.org/10.54097/hset.v8i.1110) [[全文 PDF]](/pdf/1. BEHDP_2022.pdf)  <br>
+-	第一作者（共同） **CAR-T Immunotherapy to Beat Solid Tumors: From Challenges to Improvements**. *Highlights in Science, Engineering and Technology*. DOI: 10.54097/hset.v8i.1110. []() [[论文链接]](https://doi.org/10.54097/hset.v8i.1110) [[全文 PDF]](/pdf/1. BEHDP_2022.pdf)  <br>
 <br>
 本文介绍 CAR-T 免疫治疗的作用机制、发展历程与临床应用，并讨论其治疗实体瘤的现状、挑战、改进策略及未来方向。
 </div>
@@ -108,23 +108,98 @@ redirect_from:
 <br>
 <br>
 
-<span class='anchor' id='news'></span>
-# 📰 近期动态
-- *2024. 12*  📰 在 COGI 2024 进行学术海报展示。[]() [[海报]](images/20241208.jpg) 
-- *2024. 8*   🤑 进入香港科技大学（广州）系统枢纽生命科学与生物医学工程学域深造。
-- *2024. 6*   🫡 毕业于浙江大学，获生物医学理学学士学位。
-- *2024. 6*   🥳 获爱丁堡大学综合生物医学荣誉理学学士学位。
-- *2024. 5*   😍 iGEM 项目成果发表于 IJBS。[[DOI: 10.7150/ijbs.94346]](https://doi.org/10.7150/ijbs.94346)
-- *2024. 2*   😍 第一篇研究论文发表于 iScience。[[DOI: 10.1016/j.isci.2024.109126]](https://doi.org/10.1016/j.isci.2024.109126)
-- *2023. 9*   😭 尝试申请海外博士项目，也在挫折中重新思考未来方向。
-- *2023. 6*   😍 第一篇 SCI 论文发表于 STTT。[[DOI: 10.1038/s41392-023-01502-8]](https://doi.org/10.1038/s41392-023-01502-8)
-- *2022.10*   😀 带领 ZJUintl-China 2022 团队获得 iGEM 银奖。
-- *2022. 8*   🙃 第一篇学术论文发表于 BEHDP 会议。[[DOI: 10.54097/hset.v8i.1110]](https://doi.org/10.54097/hset.v8i.1110)
-- *2021.10*   😚 创建浙江大学国际联合学院首支 iGEM 团队——[[ZJUintl-China 2022]](https://2022.igem.wiki/zjuintl-china)。
-- *2021. 3*   🤑 发起首个浙江大学大学生科研训练计划项目，并获省级立项资助。
-- *2020. 9*   😝 入读爱丁堡大学综合生物医学荣誉理学学士项目。
-- *2020. 9*   😜 入读浙江大学生物医学理学学士项目。
-- *2020. 7*   😱 参加因新冠疫情延期举行的 2020 年全国普通高等学校招生考试。
+<span class='anchor' id='tools'></span>
+# 📰 工具设计
+
+<section class="values-showcase">
+  <header class="values-head">
+    <div class="values-brand" aria-hidden="true">V</div>
+    <div class="values-heading">
+      <p class="values-kicker">独立产品 · Windows · 公开测试</p>
+      <h2>净值 <span>Values</span></h2>
+      <p class="values-slogan">看见资产，而不只是看见流水。</p>
+    </div>
+    <span class="values-version">v1.0</span>
+  </header>
+
+  <div class="values-intro">
+    <div>
+      <p>一款以资产净值为核心的本地优先个人财富管理应用。它不要求用户维护繁琐的复式流水，而是从结果出发，回答三个更重要的问题：我真正拥有多少资产、资产如何分布，以及每一次投资决定带来了什么。</p>
+      <div class="values-tags">
+        <span>资产优先记账</span><span>本地加密</span><span>真实行情</span><span>人工确认</span>
+      </div>
+    </div>
+    <div class="values-role">
+      <small>我的角色</small>
+      <strong>产品设计与独立开发</strong>
+      <span>需求定义 · 信息架构 · 核算逻辑 · Flutter 实现</span>
+    </div>
+  </div>
+
+  <div class="values-window" aria-label="Values 产品界面演示，所有金额均为虚构数据">
+    <div class="values-windowbar">
+      <div class="window-dots"><i></i><i></i><i></i></div>
+      <span>Values · 资产总览</span>
+      <em>演示数据</em>
+    </div>
+    <div class="values-app">
+      <aside class="values-sidebar" aria-hidden="true">
+        <b>V</b><i class="active">总</i><i>现</i><i>投</i><i>资</i><i>设</i>
+      </aside>
+      <div class="values-dashboard">
+        <div class="values-total">
+          <div>
+            <span>我的净资产</span>
+            <strong>¥ 1,286,420</strong>
+            <small>较上月 <b>+2.8%</b></small>
+          </div>
+          <button type="button" disabled aria-label="演示界面的隐藏金额按钮">隐藏金额</button>
+        </div>
+        <div class="values-accounts">
+          <article><span>现金账户</span><strong>¥ 360,200</strong><small>28.0%</small></article>
+          <article><span>基金与股票</span><strong>¥ 694,680</strong><small>54.0%</small></article>
+          <article><span>固定资产</span><strong>¥ 231,540</strong><small>18.0%</small></article>
+        </div>
+        <div class="values-insights">
+          <article class="allocation-card">
+            <div class="card-label"><span>资产配置</span><small>实时净值</small></div>
+            <div class="allocation-ring"><span><b>54%</b>投资资产</span></div>
+            <div class="allocation-legend">
+              <span><i class="cash"></i>现金 28%</span>
+              <span><i class="invest"></i>投资 54%</span>
+              <span><i class="fixed"></i>固定资产 18%</span>
+            </div>
+          </article>
+          <article class="decision-card">
+            <div class="card-label"><span>决策复盘</span><small>如果没有这一笔？</small></div>
+            <p>基金定投 · 2026.06.18</p>
+            <strong>为当前净值贡献 ¥ 1,284</strong>
+            <div class="decision-bars"><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div>
+            <small>以真实交易序列比较投资决定，而不是生成模拟收益曲线。</small>
+          </article>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="values-principles">
+    <article><b>01</b><h3>结果优先</h3><p>首页首先呈现净资产和配置比例，让记录服务于判断，而不是让用户为流水服务。</p></article>
+    <article><b>02</b><h3>数据主权</h3><p>账本默认保存在本机，使用 AES-256 加密；用户可以通过 CSV 完整导出和迁移数据。</p></article>
+    <article><b>03</b><h3>机器辅助，人来决定</h3><p>行情与代码识别只负责减少输入，写入账本前始终保留最终人工确认。</p></article>
+  </div>
+
+  <div class="values-feature-grid" id="values-features">
+    <article><span>01</span><h3>净值总览</h3><p>统一汇总现金、基金、股票与固定资产，观察昨日和上月变化。</p></article>
+    <article><span>02</span><h3>投资核算</h3><p>记录买卖、分红、定投和费用，区分持仓盈亏与已实现收益。</p></article>
+    <article><span>03</span><h3>决策分析</h3><p>比较“有这一笔”与“没有这一笔”的完整交易序列，复盘投资决定。</p></article>
+    <article><span>04</span><h3>固定资产</h3><p>支持房产、车辆等长期资产，以及直线法和双倍余额递减法折旧。</p></article>
+  </div>
+
+  <footer class="values-foot">
+    <div><small>技术实现</small><strong>Flutter · Dart · Material 3 · Hive AES-256</strong></div>
+    <div><small>产品状态</small><strong>Windows 公开测试版</strong></div>
+  </footer>
+</section>
 
 <br>
 <br>

@@ -12,8 +12,8 @@ main:
   - title: "荣誉奖项"
     url: "/#honors"
 
-  - title: "近期动态"
-    url: "/#news"
+  - title: "工具设计"
+    url: "/#tools"
 
   - title: "生活记录"
     url: "/#blogs"
