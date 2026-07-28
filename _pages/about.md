@@ -200,101 +200,6 @@ redirect_from:
 - *2024. 6* 浙江大学优秀本科毕业生。[]() [[证书]](images/浙江大学优秀毕业生.jpeg)
 - *2022.10* 国际遗传工程机器大赛（iGEM）银奖。[]() [[证书]](images/Prize_iGEM-2022-certificates.png) 
 - *2019.10* 河北省三好学生
-<br>
-<br>
-
-<span class='anchor' id='tools'></span>
-# 📰 工具设计
-
-<section class="values-showcase">
-  <header class="values-head">
-    <div class="values-brand" aria-hidden="true">V</div>
-    <div class="values-heading">
-      <p class="values-kicker">独立产品 · Windows · 公开测试</p>
-      <h2>净值 <span>Values</span></h2>
-      <p class="values-slogan">看见资产，而不只是看见流水。</p>
-    </div>
-    <span class="values-version">v1.0</span>
-  </header>
-
-  <div class="values-intro">
-    <div>
-      <p>一款以资产净值为核心的本地优先个人财富管理应用。它不要求用户维护繁琐的复式流水，而是从结果出发，回答三个更重要的问题：我真正拥有多少资产、资产如何分布，以及每一次投资决定带来了什么。</p>
-      <div class="values-tags">
-        <span>资产优先记账</span><span>本地加密</span><span>真实行情</span><span>人工确认</span>
-      </div>
-    </div>
-    <div class="values-role">
-      <small>我的角色</small>
-      <strong>产品设计与独立开发</strong>
-      <span>需求定义 · 信息架构 · 核算逻辑 · Flutter 实现</span>
-    </div>
-  </div>
-
-  <div class="values-window" aria-label="Values 产品界面演示，所有金额均为虚构数据">
-    <div class="values-windowbar">
-      <div class="window-dots"><i></i><i></i><i></i></div>
-      <span>Values · 资产总览</span>
-      <em>演示数据</em>
-    </div>
-    <div class="values-app">
-      <aside class="values-sidebar" aria-hidden="true">
-        <b>V</b><i class="active">总</i><i>现</i><i>投</i><i>资</i><i>设</i>
-      </aside>
-      <div class="values-dashboard">
-        <div class="values-total">
-          <div>
-            <span>我的净资产</span>
-            <strong>¥ 1,286,420</strong>
-            <small>较上月 <b>+2.8%</b></small>
-          </div>
-          <button type="button" disabled aria-label="演示界面的隐藏金额按钮">隐藏金额</button>
-        </div>
-        <div class="values-accounts">
-          <article><span>现金账户</span><strong>¥ 360,200</strong><small>28.0%</small></article>
-          <article><span>基金与股票</span><strong>¥ 694,680</strong><small>54.0%</small></article>
-          <article><span>固定资产</span><strong>¥ 231,540</strong><small>18.0%</small></article>
-        </div>
-        <div class="values-insights">
-          <article class="allocation-card">
-            <div class="card-label"><span>资产配置</span><small>实时净值</small></div>
-            <div class="allocation-ring"><span><b>54%</b>投资资产</span></div>
-            <div class="allocation-legend">
-              <span><i class="cash"></i>现金 28%</span>
-              <span><i class="invest"></i>投资 54%</span>
-              <span><i class="fixed"></i>固定资产 18%</span>
-            </div>
-          </article>
-          <article class="decision-card">
-            <div class="card-label"><span>决策复盘</span><small>如果没有这一笔？</small></div>
-            <p>基金定投 · 2026.06.18</p>
-            <strong>为当前净值贡献 ¥ 1,284</strong>
-            <div class="decision-bars"><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div>
-            <small>以真实交易序列比较投资决定，而不是生成模拟收益曲线。</small>
-          </article>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="values-principles">
-    <article><b>01</b><h3>结果优先</h3><p>首页首先呈现净资产和配置比例，让记录服务于判断，而不是让用户为流水服务。</p></article>
-    <article><b>02</b><h3>数据主权</h3><p>账本默认保存在本机，使用 AES-256 加密；用户可以通过 CSV 完整导出和迁移数据。</p></article>
-    <article><b>03</b><h3>机器辅助，人来决定</h3><p>行情与代码识别只负责减少输入，写入账本前始终保留最终人工确认。</p></article>
-  </div>
-
-  <div class="values-feature-grid" id="values-features">
-    <article><span>01</span><h3>净值总览</h3><p>统一汇总现金、基金、股票与固定资产，观察昨日和上月变化。</p></article>
-    <article><span>02</span><h3>投资核算</h3><p>记录买卖、分红、定投和费用，区分持仓盈亏与已实现收益。</p></article>
-    <article><span>03</span><h3>决策分析</h3><p>比较“有这一笔”与“没有这一笔”的完整交易序列，复盘投资决定。</p></article>
-    <article><span>04</span><h3>固定资产</h3><p>支持房产、车辆等长期资产，以及直线法和双倍余额递减法折旧。</p></article>
-  </div>
-
-  <footer class="values-foot">
-    <div><small>技术实现</small><strong>Flutter · Dart · Material 3 · Hive AES-256</strong></div>
-    <div><small>产品状态</small><strong>Windows 公开测试版</strong></div>
-  </footer>
-</section>
 
 <br>
 <br>
@@ -533,7 +438,7 @@ redirect_from:
 # 📧 联系我
 **联系方式** <br>
 lichentao2002@outlook.com <br>
-香港科技大学（广州）生命科学与生物医学工程学域，中国广东省广州市南沙区，511458。
++86 15558101784
 <br>
 <br>
 <br>
