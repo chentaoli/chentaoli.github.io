@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>李晨涛 · 当前主页视觉预览</title>
+  <link rel="stylesheet" href="/preview/academic-job-preview.css">
+  <link rel="stylesheet" href="/preview/theme-current.css">
+  <link rel="stylesheet" href="/preview/job-profile-current.css?v=2">
+</head>
+<body>
+  <div class="particle-field" aria-hidden="true"></div>
+  <header class="preview-nav">
+    <strong>李晨涛 Chentao LI</strong>
+    <nav><a href="#about-me">关于我</a><a href="#education">教育经历</a><a href="#tools">工具设计</a><a href="#publications">学术成果</a><a href="#honors">荣誉奖项</a><a href="#blogs">生活记录</a><a href="#contact">联系我</a></nav>
+  </header>
+  <div class="preview-layout">
+    <aside class="preview-sidebar">
+      <img src="/images/profile.png" alt="李晨涛头像">
+      <h2>李晨涛</h2>
+      <p>Chentao LI</p>
+      <p class="preview-bio">香港科技大学（广州）</p>
+      <ul><li>中国</li><li><a href="mailto:lichentao2002@outlook.com">电子邮箱</a></li><li><a href="https://github.com/chentaoli">GitHub</a></li><li><a href="https://scholar.google.com/citations?user=5O51RRAAAAAJ">Google Scholar</a></li></ul>
+    </aside>
+    <article class="page__content" id="preview-content"></article>
+  </div>
+  <script>
+    const inlineMarkdown = text => text
+      .replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>")
+      .replace(/\*([^*\n]+?)\*/g, "<em>$1</em>")
+      .replace(/\[\[([^\]]+)\]\]\(([^)]+)\)/g, '<a href="$2">$1</a>')
+      .replace(/\[([^\]]*)\]\(([^)]+)\)/g, (_, label, href) => label ? `<a href="${href}">${label}</a>` : "");
+
+    const renderMarkdown = source => {
+      source = source
+        .replace(/^---[\s\S]*?---\s*/, "")
+        .replace(/{%[\s\S]*?%}/g, "");
+      return source.split(/\r?\n/).map(line => {
+        if (/^# /.test(line)) return `<h1>${inlineMarkdown(line.slice(2))}</h1>`;
+        if (/^- /.test(line)) return `<p class="preview-list-item">• ${inlineMarkdown(line.slice(2))}</p>`;
+        if (!line.trim()) return "";
+        if (line.trim().startsWith("<")) return line;
+        return `<p>${inlineMarkdown(line)}</p>`;
+      }).join("\n");
+    };
+
+    fetch("/_pages/about.md", { cache: "no-store" })
+      .then(response => response.text())
+      .then(source => {
+        document.querySelector("#preview-content").innerHTML = renderMarkdown(source);
+      });
+  </script>
+  <script src="/assets/js/particles.js?v=2"></script>
+</body>
+</html>

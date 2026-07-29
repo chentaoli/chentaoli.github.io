@@ -12,17 +12,20 @@
     "rgba(91, 169, 153, .42)"
   ];
 
-  for (var i = 0; i < 28; i += 1) {
-    var particle = document.createElement("span");
-    var size = 2 + Math.random() * 4;
+  var particleCount = window.innerWidth < 768 ? 48 : 72;
 
-    particle.className = "particle";
+  for (var i = 0; i < particleCount; i += 1) {
+    var particle = document.createElement("span");
+    var isSoft = i % 4 === 0;
+    var size = isSoft ? 9 + Math.random() * 11 : 2.5 + Math.random() * 5;
+
+    particle.className = "particle" + (isSoft ? " particle--soft" : "");
     particle.style.setProperty("--x", (Math.random() * 100).toFixed(2) + "%");
     particle.style.setProperty("--size", size.toFixed(2) + "px");
-    particle.style.setProperty("--duration", (18 + Math.random() * 24).toFixed(2) + "s");
-    particle.style.setProperty("--delay", (-Math.random() * 36).toFixed(2) + "s");
-    particle.style.setProperty("--drift", (-45 + Math.random() * 90).toFixed(2) + "px");
-    particle.style.setProperty("--opacity", (.16 + Math.random() * .34).toFixed(2));
+    particle.style.setProperty("--duration", (20 + Math.random() * 30).toFixed(2) + "s");
+    particle.style.setProperty("--delay", (-Math.random() * 48).toFixed(2) + "s");
+    particle.style.setProperty("--drift", (-70 + Math.random() * 140).toFixed(2) + "px");
+    particle.style.setProperty("--opacity", (isSoft ? .14 + Math.random() * .14 : .3 + Math.random() * .38).toFixed(2));
     particle.style.setProperty("--color", colors[i % colors.length]);
     field.appendChild(particle);
   }
